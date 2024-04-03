@@ -16,8 +16,31 @@ a {
     font-family: "Poppins", sans-serif;
 }
 
-p{
+p, h3{
     font-family: "Poppins", sans-serif;
+}
+
+li{
+    font-family: "Poppins", sans-serif;
+}
+
+input, label {
+    font-family: "Poppins", sans-serif;
+}
+
+input {
+    width: 100%;
+    padding: 0.7rem;
+    border: 1px solid rgb(196, 191, 191);
+}
+
+button {
+    padding: 0.5rem 2rem;
+    background-color: black;
+    outline: none;
+    border: none;
+    color: white;
+    font-weight: bold;
 }
 
 li {
